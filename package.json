@@ -1,0 +1,44 @@
+{
+  "name": "spiderspace",
+  "version": "0.1.0",
+  "description": "a colorful living spiderspace for your git repos :cactus: work in progress",
+  "license": "CC0-1.0",
+  "homepage": "https://ryanatkn.github.io/spiderspace",
+  "scripts": {
+    "start": "echo :D"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanatkn/spiderspace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanatkn/spiderspace/issues"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Ryan Atkinson",
+    "email": "ryanatkn@gmail.com",
+    "url": "https://github.com/ryanatkn"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "type": "module",
+  "prettier": {
+    "useTabs": true,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "bracketSpacing": false,
+    "overrides": [
+      {
+        "files": "*.json",
+        "options": {
+          "useTabs": false
+        }
+      }
+    ]
+  },
+  "devDependencies": {
+    "prettier": "^1.17.1"
+  }
+}
