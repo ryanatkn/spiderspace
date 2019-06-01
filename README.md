@@ -1,6 +1,6 @@
 # spiderspace
 
-> around the web :octopus:
+> among and around the web :octopus::beetle:
 
 ```ts
 // work in progress
