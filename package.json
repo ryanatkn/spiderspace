@@ -2,7 +2,7 @@
   "name": "spiderspace",
   "version": "0.1.0",
   "description": "a colorful living spiderspace for your git repos :cactus: work in progress",
-  "license": "CC0-1.0",
+  "license": "MIT",
   "homepage": "https://ryanatkn.github.io/spiderspace",
   "scripts": {
     "start": "echo :D"
