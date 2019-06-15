@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "a colorful living spiderspace for your git repos :cactus: work in progress",
   "license": "MIT",
-  "homepage": "https://ryanatkn.github.io/spiderspace",
+  "homepage": "https://spiderspace.org",
   "scripts": {
     "start": "echo :D"
   },
