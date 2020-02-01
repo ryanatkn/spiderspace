@@ -15,4 +15,4 @@ tech: [`prettier`](https://github.com/prettier/prettier),
 
 ## license :bird:
 
-[AGPL-3.0-only](license), maximizing end-user freedoms
+[MIT](license) :dolphin:
